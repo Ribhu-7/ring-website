@@ -1,0 +1,23 @@
+.head-nav{
+    display: flex;
+    justify-content: space-around;
+    /* background-color: darkblue; */
+    width: 100%;
+}
+.heading{
+    font-size: 2rem;
+    margin: 0.5rem;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+}
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+}
+.nav-child{
+    color: white;
+}
+.nav-child:hover{
+    cursor: pointer;
+}
